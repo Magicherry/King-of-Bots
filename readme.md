@@ -246,21 +246,28 @@ The project follows a microservices architecture with clear separation of concer
 ## API Documentation
 
 ### Authentication Endpoints
-- `POST /api/user/account/register/` - User registration
-- `POST /api/user/account/token/` - User login
-- `GET /api/user/account/info/` - Get user info
+| Method | Endpoint                         | Description        |
+|--------|----------------------------------|--------------------|
+| POST   | `/api/user/account/register/`    | User registration  |
+| POST   | `/api/user/account/token/`       | User login         |
+| GET    | `/api/user/account/info/`        | Get user info      |
 
 ### Game Endpoints
-- `POST /pk/start/game/` - Start a new game
-- `POST /pk/receive/bot/move/` - Receive bot moves
-- `GET /api/record/getlist/` - Get match history
-- `GET /api/ranklist/getlist/` - Get leaderboard
+| Method | Endpoint                  | Description         |
+|--------|---------------------------|---------------------|
+| POST   | `/pk/start/game/`         | Start a new game    |
+| POST   | `/pk/receive/bot/move/`   | Receive bot moves   |
+| GET    | `/api/record/getlist/`    | Get match history   |
+| GET    | `/api/ranklist/getlist/`  | Get leaderboard     |
 
 ### Bot Management
-- `GET /api/user/bot/getlist/` - Get user bots
-- `POST /api/user/bot/add/` - Create new bot
-- `POST /api/user/bot/update/` - Update bot
-- `POST /api/user/bot/remove/` - Delete bot
+| Method | Endpoint                     | Description     |
+|--------|------------------------------|-----------------|
+| GET    | `/api/user/bot/getlist/`     | Get user bots   |
+| POST   | `/api/user/bot/add/`         | Create new bot  |
+| POST   | `/api/user/bot/update/`      | Update bot      |
+| POST   | `/api/user/bot/remove/`      | Delete bot      |
+
 
 ## License
 
