@@ -78,25 +78,32 @@ King-of-Bots/
 ## Technology Stack
 
 ### Frontend
-- **Vue 3**: Progressive JavaScript framework
-- **Vue Router**: Client-side routing
-- **Vuex**: State management
-- **Bootstrap 5**: Responsive UI framework
-- **Ace Editor**: Code editing component
-- **WebSocket**: Real-time communication
+| Tech   | Description                     |
+|--------------|---------------------------------|
+| Vue 3        | Progressive JavaScript framework |
+| Vue Router   | Client-side routing             |
+| Vuex         | State management                |
+| Bootstrap 5  | Responsive UI framework         |
+| Ace Editor   | Code editing component          |
+| WebSocket    | Real-time communication         |
 
 ### Backend Services
-- **Spring Boot**: Main application framework
-- **Spring Security**: Authentication and authorization
-- **MyBatis Plus**: Database ORM
-- **JWT**: Stateless authentication tokens
-- **WebSocket**: Real-time game communication
-- **MySQL**: Primary database
+| Tech     | Description                           |
+|----------------|---------------------------------------|
+| Spring Boot    | Main application framework            |
+| Spring Security| Authentication and authorization      |
+| MyBatis Plus   | Database ORM                          |
+| JWT            | Stateless authentication tokens       |
+| WebSocket      | Real-time game communication          |
+| MySQL          | Primary database                      |
 
 ### Microservices
-- **Main Backend**: Core game logic and APIs
-- **Matching System**: Player matchmaking service
-- **Bot Running System**: AI bot execution engine
+| Service            | Description                      |
+|--------------------|----------------------------------|
+| Main Backend       | Core game logic and APIs         |
+| Matching System    | Player matchmaking service       |
+| Bot Running System | AI bot execution engine          |
+
 
 ## Architecture
 
