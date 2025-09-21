@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Built with Spring Boot and Vue.js
+- Built with [Spring Boot](https://spring.io/projects/spring-boot) and [Vue.js](https://vuejs.org/)
 - Inspired by classic snake games
 - Uses modern web development best practices
 - Implements microservices architecture patterns
