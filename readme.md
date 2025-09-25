@@ -280,6 +280,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses modern web development best practices
 - Implements microservices architecture patterns
 
----
-
-**Note**: This project was developed as a learning exercise in full-stack web development and microservices architecture.
