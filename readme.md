@@ -3,9 +3,6 @@
 </h2>
 
 <p align="center">
-  A competitive multiplayer snake battle game with AI bot support, featuring real-time battles and microservices architecture.
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Vue.js-3.2.13-green?logo=vuedotjs" alt="Vue.js Version">
   <img src="https://img.shields.io/badge/Spring%20Boot-2.7.1-brightgreen?logo=springboot" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Java-8+-orange?logo=java" alt="Java">
@@ -13,6 +10,10 @@
   <img src="https://img.shields.io/badge/WebSocket-Real--time-red?logo=socketdotio" alt="WebSocket">
   <img src="https://img.shields.io/badge/Bootstrap-5.1.3-purple?logo=bootstrap" alt="Bootstrap">
   <img src="https://img.shields.io/badge/JWT-Authentication-yellow?logo=jsonwebtokens" alt="JWT">
+</p>
+
+<p align="center">
+  A competitive multiplayer snake battle game with AI bot support, featuring real-time battles and microservices architecture.
 </p>
 
 ## Overview
